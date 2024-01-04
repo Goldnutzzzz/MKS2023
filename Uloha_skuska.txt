@@ -1,0 +1,1 @@
+Hod kostkou bude spusten tlacitkem S1, na display zobrazime najskor rychlo meniace sa symboli kostky 1-6 9v pdoobe paliciek na dysplai ako hracia kostka, potom sa to ma postupne spoalovat az nahodne zastavi na njekaom rnadom cisle. S2 tlacitko ma random cislo zobrazit ihned
